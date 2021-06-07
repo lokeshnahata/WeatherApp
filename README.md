@@ -9,4 +9,4 @@ And yeah don't forget to leave feedback at the bottom of the page!
 
 ### The UI: https://lokeshnahata.github.io/WeatherApp/
 
-<img src="The UI.png" alt="UI">
+<img src="Screenshot (1007).png" alt="UI">
