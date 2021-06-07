@@ -11,4 +11,4 @@ And yeah don't forget to leave feedback at the bottom of the page!
 
 <img src="Screenshot (1007).png" alt="UI">
 
-<img src="download.png" alt="QRcode">
+
